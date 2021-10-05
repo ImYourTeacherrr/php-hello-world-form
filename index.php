@@ -1,6 +1,6 @@
 <?php
 
-$name = $_GET['name'] ?: 'Worldddddgdfsaa';
+$name = $_GET['name'] ?: 'Worl';
 
 ?><!doctype html>
 <html lang="en">
